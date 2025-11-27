@@ -14,7 +14,7 @@ variable "subnet_cidr_list" {
   default = ["10.0.1.0/24"]
 }
 
-variable "ssh_key" {
+variable "ssh_key1" {
   type    = string
   default = ""
 }
